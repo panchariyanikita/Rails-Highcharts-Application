@@ -1,0 +1,122 @@
+
+
+Started GET "/comparison" for 127.0.0.1 at 2015-11-11 21:11:15 -0500
+Connecting to database specified by database.yml
+Processing by PagesController#comparison as HTML
+  Rendered pages/comparison.html.erb within layouts/application (10.0ms)
+Compiled jquery.js  (20ms)  (pid 14400)
+Compiled jquery_ujs.js  (2ms)  (pid 14400)
+Compiled application.js  (1787ms)  (pid 14400)
+Completed 200 OK in 1974.1ms (Views: 1973.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2015-11-11 21:11:19 -0500
+Served asset /pages.css - 304 Not Modified (6ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-11-11 21:11:19 -0500
+Served asset /application.css - 304 Not Modified (17ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-11-11 21:11:19 -0500
+Served asset /jquery.js - 304 Not Modified (22ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-11-11 21:11:19 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (51ms)
+
+
+Started GET "/assets/angular/angular.js?body=1" for 127.0.0.1 at 2015-11-11 21:11:19 -0500
+Served asset /angular/angular.js - 304 Not Modified (28ms)
+
+
+Started GET "/assets/highcharts/highcharts.js?body=1" for 127.0.0.1 at 2015-11-11 21:11:19 -0500
+Served asset /highcharts/highcharts.js - 304 Not Modified (15ms)
+
+
+Started GET "/assets/highcharts/modules/exporting.js?body=1" for 127.0.0.1 at 2015-11-11 21:11:19 -0500
+Served asset /highcharts/modules/exporting.js - 304 Not Modified (6ms)
+
+
+Started GET "/assets/highcharts/adapters/standalone-framework.js?body=1" for 127.0.0.1 at 2015-11-11 21:11:19 -0500
+Served asset /highcharts/adapters/standalone-framework.js - 304 Not Modified (15ms)
+
+
+Started GET "/assets/highcharts-ng/dist/highcharts-ng.js?body=1" for 127.0.0.1 at 2015-11-11 21:11:19 -0500
+Served asset /highcharts-ng/dist/highcharts-ng.js - 304 Not Modified (22ms)
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2015-11-11 21:11:19 -0500
+Served asset /app.js - 200 OK (9ms)
+
+
+Started GET "/assets/app2.js?body=1" for 127.0.0.1 at 2015-11-11 21:11:19 -0500
+Served asset /app2.js - 304 Not Modified (9ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2015-11-11 21:11:19 -0500
+Served asset /pages.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-11-11 21:11:19 -0500
+Served asset /application.js - 304 Not Modified (81ms)
+
+
+Started GET "/comparison" for 127.0.0.1 at 2015-11-11 21:13:21 -0500
+Processing by PagesController#comparison as HTML
+  Rendered pages/comparison.html.erb within layouts/application (0.0ms)
+Compiled app.js  (0ms)  (pid 14400)
+Compiled application.js  (47ms)  (pid 14400)
+Completed 200 OK in 440.0ms (Views: 439.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2015-11-11 21:13:22 -0500
+Served asset /pages.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-11-11 21:13:22 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/angular/angular.js?body=1" for 127.0.0.1 at 2015-11-11 21:13:22 -0500
+Served asset /angular/angular.js - 304 Not Modified (26ms)
+
+
+Started GET "/assets/highcharts/highcharts.js?body=1" for 127.0.0.1 at 2015-11-11 21:13:22 -0500
+Served asset /highcharts/highcharts.js - 304 Not Modified (10ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-11-11 21:13:22 -0500
+Served asset /application.css - 304 Not Modified (4ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-11-11 21:13:22 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/highcharts/modules/exporting.js?body=1" for 127.0.0.1 at 2015-11-11 21:13:22 -0500
+Served asset /highcharts/modules/exporting.js - 304 Not Modified (6ms)
+
+
+Started GET "/assets/highcharts/adapters/standalone-framework.js?body=1" for 127.0.0.1 at 2015-11-11 21:13:22 -0500
+Served asset /highcharts/adapters/standalone-framework.js - 304 Not Modified (25ms)
+
+
+Started GET "/assets/highcharts-ng/dist/highcharts-ng.js?body=1" for 127.0.0.1 at 2015-11-11 21:13:22 -0500
+Served asset /highcharts-ng/dist/highcharts-ng.js - 304 Not Modified (8ms)
+
+
+Started GET "/assets/app.js?body=1" for 127.0.0.1 at 2015-11-11 21:13:22 -0500
+Served asset /app.js - 200 OK (8ms)
+
+
+Started GET "/assets/app2.js?body=1" for 127.0.0.1 at 2015-11-11 21:13:22 -0500
+Served asset /app2.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2015-11-11 21:13:22 -0500
+Served asset /pages.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-11-11 21:13:22 -0500
+Served asset /application.js - 304 Not Modified (145ms)
